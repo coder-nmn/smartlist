@@ -1,0 +1,50 @@
+[
+  {
+    "userId": "u1",
+    "email": "user1@example.com",
+    "name": "User One",
+    "purchaseHistory": [
+      {
+        "date": "2024-04-01",
+        "items": [
+          { "productId": "1", "quantity": 2 },
+          { "productId": "4", "quantity": 1 },
+          { "productId": "11", "quantity": 3 }
+        ],
+        "totalAmount": 250
+      },
+      {
+        "date": "2024-04-15",
+        "items": [
+          { "productId": "2", "quantity": 1 },
+          { "productId": "6", "quantity": 1 },
+          { "productId": "14", "quantity": 1 }
+        ],
+        "totalAmount": 260
+      }
+    ],
+    "budgetHistory": [
+      { "date": "2024-04-01", "budget": 800 },
+      { "date": "2024-04-15", "budget": 900 }
+    ]
+  },
+  {
+    "userId": "u2",
+    "email": "user2@example.com",
+    "name": "User Two",
+    "purchaseHistory": [
+      {
+        "date": "2024-04-05",
+        "items": [
+          { "productId": "3", "quantity": 1 },
+          { "productId": "5", "quantity": 2 },
+          { "productId": "12", "quantity": 4 }
+        ],
+        "totalAmount": 320
+      }
+    ],
+    "budgetHistory": [
+      { "date": "2024-04-05", "budget": 700 }
+    ]
+  }
+]

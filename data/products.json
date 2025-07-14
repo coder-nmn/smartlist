@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "name": "Whole Milk",
+    "brand": "Amul",
+    "price": 72,
+    "category": "dairy",
+    "isEssential": true,
+    "imageUrl": "/images/milk.jpg",
+    "unit": "1L"
+  },
+  {
+    "id": "2",
+    "name": "Eggs",
+    "brand": "Local Farm",
+    "price": 60,
+    "category": "poultry",
+    "isEssential": true,
+    "imageUrl": "/images/eggs.jpg",
+    "unit": "12 pcs"
+  },
+  {
+    "id": "3",
+    "name": "Cheese",
+    "brand": "Britannia",
+    "price": 150,
+    "category": "dairy",
+    "isEssential": false,
+    "imageUrl": "/images/cheese.jpg",
+    "unit": "200g"
+  },
+  {
+    "id": "4",
+    "name": "Amul Butter",
+    "brand": "Amul",
+    "price": 52,
+    "category": "dairy",
+    "isEssential": false,
+    "imageUrl": "/images/butter.jpg",
+    "unit": "100g"
+  },
+  {
+    "id": "5",
+    "name": "Mother Dairy Butter",
+    "brand": "Mother Dairy",
+    "price": 46,
+    "category": "dairy",
+    "isEssential": false,
+    "imageUrl": "/images/butter_mother_dairy.jpg",
+    "unit": "100g"
+  },
+  {
+    "id": "6",
+    "name": "Brown Bread",
+    "brand": "Britannia",
+    "price": 40,
+    "category": "bakery",
+    "isEssential": true,
+    "imageUrl": "/images/bread.jpg",
+    "unit": "400g"
+  },
+  {
+    "id": "7",
+    "name": "Rice",
+    "brand": "India Gate",
+    "price": 60,
+    "category": "grains",
+    "isEssential": true,
+    "imageUrl": "/images/rice.jpg",
+    "unit": "1kg"
+  },
+  {
+    "id": "8",
+    "name": "Wheat Flour",
+    "brand": "Aashirvaad",
+    "price": 50,
+    "category": "grains",
+    "isEssential": true,
+    "imageUrl": "/images/wheat_flour.jpg",
+    "unit": "1kg"
+  },
+  {
+    "id": "9",
+    "name": "Sugar",
+    "brand": "Tata",
+    "price": 45,
+    "category": "grocery",
+    "isEssential": true,
+    "imageUrl": "/images/sugar.jpg",
+    "unit": "1kg"
+  },
+  {
+    "id": "10",
+    "name": "Salt",
+    "brand": "Tata",
+    "price": 20,
+    "category": "grocery",
+    "isEssential": true,
+    "imageUrl": "/images/salt.jpg",
+    "unit": "1kg"
+  },
+  {
+    "id": "11",
+    "name": "Tomatoes",
+    "brand": "Local Farm",
+    "price": 30,
+    "category": "vegetables",
+    "isEssential": true,
+    "imageUrl": "/images/tomatoes.jpg",
+    "unit": "1kg"
+  },
+  {
+    "id": "12",
+    "name": "Potatoes",
+    "brand": "Local Farm",
+    "price": 25,
+    "category": "vegetables",
+    "isEssential": true,
+    "imageUrl": "/images/potatoes.jpg",
+    "unit": "1kg"
+  },
+  {
+    "id": "13",
+    "name": "Onions",
+    "brand": "Local Farm",
+    "price": 28,
+    "category": "vegetables",
+    "isEssential": true,
+    "imageUrl": "/images/onions.jpg",
+    "unit": "1kg"
+  },
+  {
+    "id": "14",
+    "name": "Cooking Oil",
+    "brand": "Fortune",
+    "price": 150,
+    "category": "grocery",
+    "isEssential": true,
+    "imageUrl": "/images/oil.jpg",
+    "unit": "1L"
+  },
+  {
+    "id": "15",
+    "name": "Tea Powder",
+    "brand": "Tata Tea",
+    "price": 120,
+    "category": "grocery",
+    "isEssential": false,
+    "imageUrl": "/images/tea.jpg",
+    "unit": "250g"
+  },
+  {
+    "id": "16",
+    "name": "Coffee",
+    "brand": "Nescafe",
+    "price": 200,
+    "category": "grocery",
+    "isEssential": false,
+    "imageUrl": "/images/coffee.jpg",
+    "unit": "200g"
+  },
+  {
+    "id": "17",
+    "name": "Apples",
+    "brand": "Local Farm",
+    "price": 100,
+    "category": "fruits",
+    "isEssential": true,
+    "imageUrl": "/images/apples.jpg",
+    "unit": "1kg"
+  },
+  {
+    "id": "18",
+    "name": "Bananas",
+    "brand": "Local Farm",
+    "price": 40,
+    "category": "fruits",
+    "isEssential": true,
+    "imageUrl": "/images/bananas.jpg",
+    "unit": "1 dozen"
+  },
+  {
+    "id": "19",
+    "name": "Oranges",
+    "brand": "Local Farm",
+    "price": 80,
+    "category": "fruits",
+    "isEssential": true,
+    "imageUrl": "/images/oranges.jpg",
+    "unit": "1kg"
+  },
+  {
+    "id": "20",
+    "name": "Paneer",
+    "brand": "Amul",
+    "price": 150,
+    "category": "dairy",
+    "isEssential": true,
+    "imageUrl": "/images/paneer.jpg",
+    "unit": "200g"
+  }
+]

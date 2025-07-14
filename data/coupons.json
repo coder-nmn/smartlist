@@ -1,0 +1,47 @@
+[
+  {
+    "id": "c1",
+    "code": "SAVE30",
+    "description": "₹30 off on any purchase",
+    "discountType": "fixed",
+    "discountValue": 30,
+    "minPurchase": 100,
+    "expiryDate": "2025-12-31"
+  },
+  {
+    "id": "c2",
+    "code": "50OFF500",
+    "description": "₹50 off on ₹500 purchase",
+    "discountType": "fixed",
+    "discountValue": 50,
+    "minPurchase": 500,
+    "expiryDate": "2025-11-30"
+  },
+  {
+    "id": "c3",
+    "code": "15PERCENT",
+    "description": "15% off on your order",
+    "discountType": "percentage",
+    "discountValue": 15,
+    "minPurchase": 200,
+    "expiryDate": "2025-10-15"
+  },
+  {
+    "id": "c4",
+    "code": "EXPIRED10",
+    "description": "₹10 off (Expired)",
+    "discountType": "fixed",
+    "discountValue": 10,
+    "minPurchase": 50,
+    "expiryDate": "2024-01-15"
+  },
+  {
+    "id": "c5",
+    "code": "BIGDEAL100",
+    "description": "₹100 off on orders above ₹1000",
+    "discountType": "fixed",
+    "discountValue": 100,
+    "minPurchase": 1000,
+    "expiryDate": "2025-12-25"
+  }
+]
